@@ -34,5 +34,5 @@ AyushVision is a Convolutional Neural Network (CNN)-based project designed to cl
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo-link.git  
-   cd AyushVision  
+   https://github.com/ThanuCorder126/AyushVision-CNN-classification.git  
+   cd AyushVision-CNN-classification  
